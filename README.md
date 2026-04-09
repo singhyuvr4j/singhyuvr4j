@@ -90,6 +90,5 @@ I like working on projects that connect **AI, automation, and real-world use cas
 
 <div align="center">
 
-<img src="https://github.com/singhyuvr4j/singhyuvr4j/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/singhyuvr4j/singhyuvr4j/output/github-contribution-grid-snake-dark.svg" />
 </div>
